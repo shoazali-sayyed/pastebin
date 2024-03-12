@@ -4,7 +4,7 @@
 	"dataPath": "./data",
 	"keyLength": 10,
 	"maxLength": 500000,
-	"createKey": "",
+	"createKey": "This is second entry",
 	"documents": {
 		"about": "./README.md",
 		"javaTest": "./documents/test.java"
