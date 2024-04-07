@@ -7,7 +7,6 @@
 	"createKey": "",
 	"documents": {
 		"about": "./README.md",
-		"newentry": "./hello",
 		"javaTest": "./documents/test.java"
 	}
 }
